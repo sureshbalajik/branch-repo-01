@@ -2,3 +2,5 @@ added line 1 for branch file test
 Created the feature branch called "dev1" and make the commit into dev1 branch
 Going to commit the this file from dev1 branch to master branch using "git merge dev1".
 Before that switch to dev1 to master branch "git checkout master"
+Added 5th line "To test the Wrong Commint example".
+Added 6th Line.
